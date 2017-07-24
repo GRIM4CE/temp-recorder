@@ -1,0 +1,14 @@
+{
+  "name": "smp-temp-app",
+  "version": "1.0.0",
+  "description": "Simple app that collects tempature every hour",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-cron": "^1.2.0",
+    "weather-js": "^2.0.0"
+  }
+}

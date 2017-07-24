@@ -1,0 +1,5 @@
+[object Object]
+75
+75: 20:30:00
+75 degrees at 20:30:00
+75 degrees at 20:30:00
